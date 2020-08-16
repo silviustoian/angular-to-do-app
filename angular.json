@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-to-do-app"
+    }
+  },
+  "defaultProject": "angular-to-do-app",
+  "cli": {
+    "analytics": false
+  }
 }
